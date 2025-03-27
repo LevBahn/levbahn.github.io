@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  M.S in Computer Science, University of Massachusetts Amherst, 2025(expected)
+  M.S in Computer Science, University of Massachusetts Amherst, Feburary 2025
 </p>
 
 <p>

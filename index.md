@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-  Ph.D in Mathematics, University of Massachusetts Amherst, 2025(expected)
+  Ph.D in Mathematics, University of Massachusetts Amherst, May 2025
 </p>
 
 <p>

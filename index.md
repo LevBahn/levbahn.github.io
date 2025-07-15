@@ -1,4 +1,4 @@
----
+<img width="1215" height="594" alt="image" src="https://github.com/user-attachments/assets/07f65687-ec78-4c56-8a8b-938fc5fa3667" />---
 layout: home
 profile_picture:
   src: /assets/img/main.jpg
@@ -22,7 +22,7 @@ profile_picture:
 </p>
 
 <p>
-   I am studying mathematical analysis of partial differential equations (PDEs) and Machine Learning. 
+  My research lies in the mathematical analysis of PDEs and in numerical methods mainly machine-learning. 
 </p>
 
 <p>

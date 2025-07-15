@@ -13,8 +13,8 @@ header:
   pages:
     - name: Introduction
       slug: /
-    - name: teaching
-    - name: publications
+    - name: Teaching
+    - name: Publications
 
 footer:
   show_powered_by: true

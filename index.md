@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hello! My name is Byeong-Ho Bahn. I am a Ph.D candidate in mathematics at University of Massachusetts Amherst (UMass Amherst).
+  Hello! My name is Byeong-Ho Bahn. I am currently a lectuerer at University of Massachusetts Amherst. From Aug 2025, I will be joining Arizona State University as an assistant teaching professor.   
 </p>
 
 <p>
@@ -22,7 +22,15 @@ profile_picture:
 </p>
 
 <p>
-  My research lies in the mathematical analysis of PDEs and in numerical methods mainly machine-learning. 
+  B.S in Mathematics, Kangwon National University, 2015
+</p>
+
+<p>
+  B.S in Science Education[concentration in Physics], Kangwon National University, 2015
+</p>
+
+<p>
+  My research lies in the mathematical analysis of Partial Differential Equations(PDEs) and in numerical methods mainly machine-learning. Especially, my first two papers are focusing on providing the theoretical guarantee of using deep operator neural network and quasi Monte Carlo method for nonlinear PDE problems. I am also interested in PDE analysis of nonlinear eigenvalue problem.
 </p>
 
 <p>

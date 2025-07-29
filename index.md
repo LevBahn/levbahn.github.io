@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p style="margin-bottom: 100px;">
-  Hello! My name is Byeong-Ho Bahn. I am currently a lectuerer in <a href="https://www.umass.edu/mathematics-statistics/">the department of mathematics ans statistics</a> at University of Massachusetts Amherst. From Aug 2025, I will be joining <a href="https://math.asu.edu/">School of Mathematical and Statistical Sciences(SoMMS)</a> at Arizona State University as an assistant teaching professor.   
+  Hello! My name is Byeong-Ho Bahn. I am currently a lectuerer in <a href="https://www.umass.edu/mathematics-statistics/">the department of mathematics and statistics</a> at University of Massachusetts Amherst. From Aug 2025, I will be joining <a href="https://math.asu.edu/">School of Mathematical and Statistical Sciences(SoMMS)</a> at Arizona State University as an assistant teaching professor.   
 </p>
 
 

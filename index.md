@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
+<p style="margin-bottom: 30px;">
   Hello! My name is Byeong-Ho Bahn. I am currently a lectuerer at University of Massachusetts Amherst. From Aug 2025, I will be joining School of Mathematical and Statistical Sciences(SoMMS) at Arizona State University as an assistant teaching professor.   
 </p>
 

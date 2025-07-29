@@ -33,7 +33,7 @@ profile_picture:
 </p>
 
 <p>
-  My research lies in the mathematical analysis of Partial Differential Equations(PDEs) and in numerical methods mainly machine-learning. Especially, my first two papers are focusing on providing the theoretical guarantee of using deep operator neural network and quasi Monte Carlo method for nonlinear PDE problems. I am also interested in PDE analysis of nonlinear eigenvalue problem.
+  My research lies in the mathematical analysis of Partial Differential Equations(PDEs) and in numerical methods mainly machine-learning. Especially, my first two papers are focusing on providing the theoretical guarantee of using deep operator neural network and quasi Monte Carlo method for nonlinear PDE problems. The two papers dealt with the analysis of parametric PDEs with countably many parameters. I am also interested in PDE analysis of nonlinear eigenvalue problem.
 </p>
 
 <p>

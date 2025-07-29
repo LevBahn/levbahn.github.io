@@ -1,7 +1,7 @@
 ---
 layout: Teaching
 title: Teaching
-slug: /Teaching/
+slug: /Teaching
 items:
   - title: MATH 131_Calculus 1 at UMass Amherst
     description: 2024_Fall

@@ -14,7 +14,7 @@ header:
     - name: Introduction
       slug: /
     - name: Teaching
-      slug: /teaching
+      slug: /Teaching
     - name: Publications
       slug: /publications
 

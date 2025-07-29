@@ -14,9 +14,9 @@ header:
     - name: Introduction
       slug: /
     - name: Teaching
-      slug: /Teaching/
+      slug: /teaching
     - name: Publications
-      slug: /Publications/
+      slug: /publications
 
 footer:
   show_powered_by: true

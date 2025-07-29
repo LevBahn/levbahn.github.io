@@ -1,7 +1,7 @@
 ---
 layout: Publications
 title: Publications
-slug: /Publications
+slug: /Publications/
 items:
   - title: Parametric holomorphy of elliptic eigenvalue problems (Submitted in 2024)
     image:

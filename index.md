@@ -28,7 +28,7 @@ profile_picture:
   B.S in Mathematics, Kangwon National University, 2015
 </p>
 
-<p>
+<p style="margin-bottom: 100px;">
   B.S in Science Education[concentration in Physics], Kangwon National University, 2015
 </p>
 

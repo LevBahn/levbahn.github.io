@@ -16,7 +16,7 @@ header:
     - name: Teaching
       slug: /Teaching
     - name: Publications
-      slug: /publications
+      slug: /Publications
 
 footer:
   show_powered_by: true

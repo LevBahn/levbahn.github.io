@@ -13,9 +13,9 @@ header:
   pages:
     - name: Introduction
       slug: /
-    - name: Teaching
+    - name: Teaching.md
       slug: /Teaching/
-    - name: Publications
+    - name: Publications.md
       slug: /Publications/
 
 footer:

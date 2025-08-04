@@ -17,6 +17,8 @@ header:
       slug: /Teaching
     - name: Publications
       slug: /Publications
+    - name: Undergrad Researches
+      slug: /undergrad_research
 
 footer:
   show_powered_by: true

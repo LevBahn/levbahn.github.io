@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Teaching
 title: Undergraduate Research Projects
 permalink: /undergrad/
 ---

@@ -18,7 +18,7 @@ items:
       - Stochastic Differential Equations and Black-Scholes Model, 2024_Spring
 
   - title: Shubhankar Tripathy
-    description: Optimizing GPT-PINN: Mathematical Foundations, Shortcomings, and Enhancements, 2024_Fall
+    description: Optimizing GPT-PINN : Mathematical Foundations, Shortcomings, and Enhancements, 2024_Fall
 
   - title: Emily Chandran
     description: Neural Network: Basic theory and function fitting, Spring 2024

@@ -4,21 +4,34 @@ title: Undergraduate Research Projects
 permalink: /undergrad_research/
 
 items:
-  - title: MATH 131_Calculus 1 at UMass Amherst
-    description: 2024_Fall
+  - title: Yiying Zhong
+    description: Mathematical foundation of neural netowrks and Physics Informed Neural Networks, 2025_Spring
 
-  - title: MATH 233_Multivariate Calculus at UMass Amherst
-    description: 2024_Spring, 2025_Spring
+  - title: Michael Weagle
+    description:
+       - Ruin Theory(probabilistic analysis of risk management), 2025_Spring
+       - Optimization Theory and the analysis of the class of PL functions, 2024_Fall
     
-  - title: MATH 331_Ordinary Differential Equations at UMass Amherst
-    image:
-    description: 2023_Fall, 2025_Spring
+  - title: Jahnavi Anand Modi
+    description: 
+       - Paper reading: Portfolio Optimation within a Wasserstein Ball(Silvana.M.P and Sebastian.J 2023), 2024_Fall
+       - Stochastic Differential Equations and Black Scholes Model, 2024_Spring
 
-  - title: STAT 315_Statistics 1 at UMass Amherst
-    description: 2024_Fall, 2025_Spring
+  - title: Shubhankar Tripathy
+    description: Optimizing GPT-PINN: Mathematical Foundations, Shortcomings, and Enhancements, 2024_Fall
 
-  - title: College Algebra at Texas Tech University
-    description: 2017_Fall, 2018_Spring
+  - title: Emily Chandran
+    description: Neural Network : Basics theory and function fitting, Spring 2024
+
+  - title: Chuong Huynh
+    description: Stochastic partial differential equations, Fall 2023
+
+  - title: Adon Osimo 
+    description: Bayesian Optimization, Fall 2023
+
+  - title: Alexander Ruse
+    description: Generative Diffusion Model, Spring 2023
+
 ---
 
 This page shows the list of students with the research topics I have mentored.

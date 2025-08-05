@@ -16,10 +16,18 @@
             <span class="work-text">
               <strong>{{ item.title }}</strong>
               &mdash;
-              {{ item.description }}
-            </span>
-          </div>
-          {% endfor %}
+              {% if item.description[0] %}
+            <ul>
+          {% for desc in item.description %}
+          <li>{{ desc }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      {{ item.description }}
+    {% endif %}
+  </span>
+</div>
+{% endfor %}
         </div>
       </div>
     </div>

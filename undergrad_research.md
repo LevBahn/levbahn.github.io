@@ -32,7 +32,7 @@ items:
   - title: Alexander Ruse
     description: Generative Diffusion Model, Spring 2023
 ---
-
 This page shows the list of students with the research topics I have mentored.
+
 
 

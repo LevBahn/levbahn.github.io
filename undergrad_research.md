@@ -18,6 +18,12 @@ items:
       - Stochastic Differential Equations and Black-Scholes Model, 2024_Spring
 
 
+  - title: Chuong Huynh
+    description: Stochastic partial differential equations, Fall 2023
+
+  - title: Adon Osimo 
+    description: Bayesian Optimization, Fall 2023
+
   - title: Alexander Ruse
     description: Generative Diffusion Model, Spring 2023
 ---

@@ -17,6 +17,8 @@ items:
       - Paper reading: Portfolio Optimization within a Wasserstein Ball (Silvana M.P and Sebastian J., 2023), 2024_Fall
       - Stochastic Differential Equations and Black-Scholes Model, 2024_Spring
 
+  - title: Shubhankar Tripathy
+    description: Optimizing GPT-PINN : Mathematical Foundations, Shortcomings, and Enhancements, 2024_Fall
 
   - title: Emily Chandran
     description: Neural Network: Basic theory and function fitting, Spring 2024

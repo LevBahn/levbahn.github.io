@@ -2,9 +2,6 @@
 layout: Teaching
 title: Undergraduate Research Projects
 permalink: /undergrad_research/
----
-
-This page shows the list of one semester research projects I have mentored.
 
 items:
   - title: MATH 131_Calculus 1 at UMass Amherst
@@ -22,3 +19,8 @@ items:
 
   - title: College Algebra at Texas Tech University
     description: 2017_Fall, 2018_Spring
+---
+
+This page shows the list of one semester research projects I have mentored.
+
+

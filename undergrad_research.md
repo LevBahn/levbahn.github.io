@@ -21,6 +21,6 @@ items:
     description: 2017_Fall, 2018_Spring
 ---
 
-This page shows the list of one semester research projects I have mentored.
+This page shows the list of students with the research topics I have mentored.
 
 

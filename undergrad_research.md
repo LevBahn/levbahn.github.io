@@ -14,7 +14,7 @@ items:
 
   - title: Jahnavi Anand Modi
     description:
-      - Paper reading: Portfolio Optimization within a Wasserstein Ball (Silvana M.P and Sebastian J., 2023), 2024_Fall
+      - Paper reading; Portfolio Optimization within a Wasserstein Ball (Silvana M.P and Sebastian J., 2023), 2024_Fall
       - Stochastic Differential Equations and Black-Scholes Model, 2024_Spring
 
   - title: Shubhankar Tripathy
